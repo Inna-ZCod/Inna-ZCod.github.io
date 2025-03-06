@@ -9,7 +9,7 @@
 
 ## Проекты  
 ### 1. Flower Delivery  
-Dеб-приложение для доставки цветов
+Веб-приложение для доставки цветов
 - **Технологии**: Python, Django, PostgreSQL, Telebot, Pytest  
 - **Репозиторий**: <a href="https://github.com/Inna-ZCod/FlowerDelivery.git" target="_blank">Flower Delivery</a>
 
